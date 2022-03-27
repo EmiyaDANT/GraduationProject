@@ -1,0 +1,14 @@
+﻿<Form Model="@model">
+    <FormItem Class="col-md-6" Style="margin:0 auto;">
+        <Search Placeholder="input search text" @bind-Value="context.Title" Size="large" EnterButton="@("搜索")"/>
+    </FormItem>
+</Form>
+
+@code {
+    public class SeachModel
+    {
+        public string Title { get; set; }
+    }
+
+    SeachModel model = new SeachModel();
+}

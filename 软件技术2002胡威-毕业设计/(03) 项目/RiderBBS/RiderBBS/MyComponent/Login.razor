@@ -74,6 +74,11 @@
             {
                 // 若用户名和密码匹配
                 pwdFlag = (user.UserName == dr["Username"].ToString()&&user.Password==dr["UserPwd"].ToString())? true : false;
+                if (pwdFlag)
+                {
+                    user.Id = (int)dr["UserId"];
+                    break;
+                }
             }
             // 如果用户名和密码匹配
             if (pwdFlag)
@@ -97,6 +102,7 @@
         _message.Success("登录成功");
         LoginState.State = true;
         LoginState.UserName = user.UserName;
+        LoginState.UserID = user.Id;
         // 会调用JavaScript里的Refresh方法
         js.InvokeVoidAsync("Refresh");
     }

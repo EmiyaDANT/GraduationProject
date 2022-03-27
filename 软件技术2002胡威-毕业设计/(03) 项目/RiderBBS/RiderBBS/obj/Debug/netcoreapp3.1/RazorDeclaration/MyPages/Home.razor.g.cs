@@ -127,7 +127,7 @@ using System.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 67 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyPages\Home.razor"
+#line 71 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyPages\Home.razor"
       
 
     DataTable dt = DBHelper.GetData("select * from PostTable as A inner join TypeTable as B on A.PostTypeId=B.PostTypeId");

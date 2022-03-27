@@ -352,3 +352,11 @@ D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(0
 D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.dll
 D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.pdb
 D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.genruntimeconfig.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\Publish.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\Publish.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\SearchK.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\SearchK.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\ShenHePage.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\ShenHePage.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\BaZhuMianBan.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\BaZhuMianBan.razor.g.cs

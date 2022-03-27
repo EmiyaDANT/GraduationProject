@@ -1,0 +1,34 @@
+﻿@page "/ShenHe"
+@using System.Data.SqlClient
+@using System.Data
+
+<div style="background:#ECECEC; padding:30px">
+    <Card Bordered="false" Title=@("审核面板") Style="width:100%"> 
+        <Body>
+            <AntList DataSource="@test()">
+                <ListItem>
+                    <a>@context.Name</a>
+                    <a>@context.Type</a>
+                    <Switch CheckedChildren="审核完成" UnCheckedChildren="还未审核"/>
+                </ListItem>
+            </AntList>
+        </Body>
+    </Card>
+</div>
+
+@code{
+
+    DataTable dt = DBHelper.GetData("select * from PostTable as A inner join TypeTable as B on A.PostTypeId=B.PostTypeId");
+    public List<Tiezhi> test()
+    {
+        List<Tiezhi> tiezhis = new List<Tiezhi>();
+        foreach (DataRow dr in dt.Rows)
+        {
+            Tiezhi tiezhi = new Tiezhi();
+            tiezhi.Name = dr["PostName"].ToString();
+            tiezhi.Type = dr["PostTypeName"].ToString();
+            tiezhis.Add(tiezhi);
+        }
+        return tiezhis;
+    }
+}

@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace RiderBBS.MyComponent
+namespace RiderBBS.MyPages
 {
     #line hidden
     using System;
@@ -111,27 +111,21 @@ using UEditor.Core.Handlers;
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyComponent\Login.razor"
-using System.ComponentModel.DataAnnotations;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 3 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyComponent\Login.razor"
-using System.Data;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 4 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyComponent\Login.razor"
+#line 2 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyPages\ShenHePage.razor"
 using System.Data.SqlClient;
 
 #line default
 #line hidden
 #nullable disable
-    public partial class Login : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 3 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyPages\ShenHePage.razor"
+using System.Data;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/ShenHe")]
+    public partial class ShenHePage : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -139,104 +133,26 @@ using System.Data.SqlClient;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 29 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyComponent\Login.razor"
- 
-    // 用户名框的状态
-    public FormValidateStatus NameStatus { get; set; } = FormValidateStatus.Validating;
+#line 19 "D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\MyPages\ShenHePage.razor"
+      
 
-    // 密码框状态
-    public FormValidateStatus PwdStatus { get; set; } = FormValidateStatus.Validating;
-
-    private User user=new User();
-
-    // 获取用户表
-    DataTable dt=DBHelper.GetData("select * from UserTable");
-    // 判断用户名是否正确
-    private void JuageName()
+    DataTable dt = DBHelper.GetData("select * from PostTable as A inner join TypeTable as B on A.PostTypeId=B.PostTypeId");
+    public List<Tiezhi> test()
     {
-        // 判断条件
-        bool hasName=false;
-
-        // 遍历用户表
+        List<Tiezhi> tiezhis = new List<Tiezhi>();
         foreach (DataRow dr in dt.Rows)
         {
-            // 若不存在输入的用户名,将hasName改为false
-            hasName = user.UserName != dr["Username"].ToString() ? false : true;
+            Tiezhi tiezhi = new Tiezhi();
+            tiezhi.Name = dr["PostName"].ToString();
+            tiezhi.Type = dr["PostTypeName"].ToString();
+            tiezhis.Add(tiezhi);
         }
-        // 如果存在用户名
-        if (hasName)
-        {
-            NameStatus = FormValidateStatus.Success;
-        }
-        //  如果不存在用户名
-        else
-        {
-            NameStatus = FormValidateStatus.Error;
-        }
+        return tiezhis;
     }
-
-    // 判断密码是否正确
-    private void JuagePwd()
-    {
-        if (!String.IsNullOrEmpty(user.UserName))
-        {
-            // 判断条件
-            bool pwdFlag=false;
-
-            // 遍历用户表
-            foreach (DataRow dr in dt.Rows)
-            {
-                // 若用户名和密码匹配
-                pwdFlag = (user.UserName == dr["Username"].ToString()&&user.Password==dr["UserPwd"].ToString())? true : false;
-                if (pwdFlag)
-                {
-                    user.Id = (int)dr["UserId"];
-                    break;
-                }
-            }
-            // 如果用户名和密码匹配
-            if (pwdFlag)
-            {
-                PwdStatus = FormValidateStatus.Success;
-            }
-            //  如果用户名和密码不匹配
-            else
-            {
-                PwdStatus = FormValidateStatus.Error;
-            }
-        }
-    }
-
-
-
-
-    // 登录成功以后
-    private void OnFinish(EditContext editContext)
-    {
-        _message.Success("登录成功");
-        LoginState.State = true;
-        LoginState.UserName = user.UserName;
-        LoginState.UserID = user.Id;
-        // 会调用JavaScript里的Refresh方法
-        js.InvokeVoidAsync("Refresh");
-    }
-
-    // 登录失败以后
-    private void OnFinishFailed(EditContext editContext)
-    {
-        _message.Error("登录失败!!");
-    }
-
-
-    bool loading = false;
-
-    void toggle(bool value) => loading = value;
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime js { get; set; }
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private MessageService _message { get; set; }
     }
 }
 #pragma warning restore 1591

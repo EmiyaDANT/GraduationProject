@@ -10,5 +10,7 @@ namespace RiderBBS.Model
         public static bool State { get; set; } = false;
 
         public static string UserName{get;set;}
+
+        public static int UserID { get; set; }
     }
 }

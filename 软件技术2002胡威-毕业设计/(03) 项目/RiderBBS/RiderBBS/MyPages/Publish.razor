@@ -1,0 +1,30 @@
+﻿@page "/publish"
+
+<div class="container" style="background-color:red">
+    <div class="row">
+        <div class="col-md-8" style="margin:0 auto;">
+
+            @if (LoginState.State==true)
+            {
+                    <Card Title="Default size card" Style="width:100%;">
+                        <Extra>
+                            <a>More</a>
+                        </Extra>
+                        <Body>
+                            <p>Card content</p>
+                        </Body>
+                    </Card>
+            }
+            else
+            {
+                <h1>请先登录！！！</h1> 
+            }
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+
+}

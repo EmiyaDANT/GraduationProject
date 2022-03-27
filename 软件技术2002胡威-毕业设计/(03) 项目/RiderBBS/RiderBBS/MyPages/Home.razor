@@ -15,6 +15,10 @@
     <ListItem>
         <a>@context.Name</a>
         <a>@context.Type</a>
+        @if (LoginState.State)
+        {
+            <div><label>是否置頂&nbsp;&nbsp;&nbsp;&nbsp;</label><Switch></Switch></div>
+        }
     </ListItem>
 </AntList>
 
