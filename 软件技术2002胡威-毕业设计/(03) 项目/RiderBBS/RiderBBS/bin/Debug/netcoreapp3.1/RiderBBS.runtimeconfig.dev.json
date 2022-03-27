@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Emiya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Emiya\\.nuget\\packages"
+    ]
+  }
+}

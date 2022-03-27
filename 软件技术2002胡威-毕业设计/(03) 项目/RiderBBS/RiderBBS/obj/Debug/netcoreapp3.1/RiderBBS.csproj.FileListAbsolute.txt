@@ -1,0 +1,354 @@
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.exe
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.deps.json
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.json
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.dev.json
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfoInputs.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfo.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CoreCompileInputs.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.MvcApplicationPartsAssemblyInfo.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.input.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.output.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\RiderBBS.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.input.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.output.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorCoreGenerate.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.Manifest.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.genruntimeconfig.cache
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CopyComplete
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\AntDesign.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\OneOf.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\UEditor.Core.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+D:\project\asp.net_core\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.exe
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.deps.json
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.json
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.dev.json
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\AntDesign.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\OneOf.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\UEditor.Core.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.AssemblyReference.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfoInputs.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfo.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CoreCompileInputs.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.MvcApplicationPartsAssemblyInfo.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.input.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.output.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\RiderBBS.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.input.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.output.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorCoreGenerate.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.Manifest.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CopyComplete
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.genruntimeconfig.cache
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\IsLogin.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\NotLogin.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\IsLogin.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\NotLogin.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\Login.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\Login.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\Register.razor.g.cs
+D:\project\asp.net_core\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\Register.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.exe
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.deps.json
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.json
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.runtimeconfig.dev.json
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\AntDesign.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\OneOf.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\UEditor.Core.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libuv.so
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libuv.so
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libuv.so
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libuv.so
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\libuv.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libuv.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libuv.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.AssemblyReference.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfoInputs.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.AssemblyInfo.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CoreCompileInputs.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.MvcApplicationPartsAssemblyInfo.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.input.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\IsLogin.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\Login.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\NotLogin.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\Register.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorComponent.output.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RazorDeclaration\RiderBBS.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.input.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.TagHelpers.output.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorCoreGenerate.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\BiaoTou.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\IsLogin.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\Login.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\LunBo.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\NotLogin.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\PostClassification.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\Register.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyComponent\TextEditor.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\Home.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDActivities.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDCircle.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDEquipment.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDKnowledge.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\MyPages\RDStrategy.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorAssemblyInfo.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.Manifest.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\staticwebassets\RiderBBS.StaticWebAssets.xml
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cache
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.RazorTargetAssemblyInfo.cs
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.Views.pdb
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.csproj.CopyComplete
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.dll
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.pdb
+D:\project\asp.net_core\GraduationProject\软件技术2002胡威-毕业设计\(03) 项目\RiderBBS\RiderBBS\obj\Debug\netcoreapp3.1\RiderBBS.genruntimeconfig.cache

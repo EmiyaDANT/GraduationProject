@@ -1,0 +1,177 @@
+﻿@page "/"
+@namespace RiderBBS.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RiderBBS</title>
+    <base href="~/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="icon" href=~/img/R.ico/>
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="css/componetcss/Index.razor.css" rel="stylesheet" />
+    <link href="_content/AntDesign/css/ant-design-blazor.css" rel="stylesheet" />
+    <link href="RiderBBS.styles.css" rel="stylesheet" />
+    <script src="_content/AntDesign/js/ant-design-blazor.js"></script>
+    <script src="~/js/JavaScript.js"></script>
+    <script>
+        function Refresh()
+        {
+            setTimeout(function(){
+                location.reload();
+            },"2000");
+        }
+
+        // 右滑动画
+        function right() {
+            // 实现滑动动画
+            var tu = document.querySelector("#tu");
+            var tuposition = tu.style.left;
+            // 当滑到最右边时重置位置
+            if (tuposition == "0px") {
+                tuposition = "-3600px";
+                tu.style.left = "-3600px";
+            }
+            var S = parseInt(tuposition) + 1200 + "px";
+            $(function () {
+                $("#tu").animate({ left: S }, 500);
+                if (document.getElementById("tu").style.left == "-3600px") {
+                    oneCL(0);
+                }
+                if (document.getElementById("tu").style.left == "-2400px") {
+                    twoCL(0);
+                }
+                if (document.getElementById("tu").style.left == "-1200px") {
+                    threeCL(0);
+                }
+            });
+            // 解决暴力点击bug
+            document.querySelector("#right").onclick = null;
+            setTimeout(function () {
+                document.querySelector("#right").onclick = function () { right() };
+            }, 500)
+        }
+
+        // 同上
+        function left() {
+            var tu = document.querySelector("#tu");
+            var tuposition = tu.style.left;
+            if (tuposition == "-4800px") {
+                tuposition = "-1200px";
+                tu.style.left = "-1200px";
+            }
+            var S = parseInt(tuposition) - 1200 + "px";
+            $(function () {
+                $("#tu").animate({ left: S }, 500);
+                if (document.getElementById("tu").style.left == "-3600px") {
+                    oneCL(0);
+                }
+                if (document.getElementById("tu").style.left == "-2400px") {
+                    twoCL(0);
+                }
+                if (document.getElementById("tu").style.left == "-1200px") {
+                    threeCL(0);
+                }
+            });
+            // 解决暴力点击bug
+            document.querySelector("#left").onclick = null;
+            setTimeout(function () {
+                document.querySelector("#left").onclick = function () { left() };
+            }, 500)
+        }
+
+        // 第一个按钮被按下时
+        function oneCL(flag) {
+            $(function () {
+                $("#oneBT").animate({ width: "40px", backgroundColor: " white" }, 500);
+                $("#twoBT").animate({ width: "20px" }, 500);
+                $("#threeBT").animate({ width: "20px" }, 500);
+            });
+            if (flag == 1) {
+                $(function () {
+                    $("#tu").animate({ left: "-3600px" }, 500);
+                });
+            }
+        }
+
+        // 第二个按钮被按下时
+        function twoCL(flag) {
+            $(function () {
+                $("#oneBT").animate({ width: "20px" }, 500);
+                $("#twoBT").animate({ width: "40px", backgroundColor: "white" }, 500);
+                $("#threeBT").animate({ width: "20px" }, 500);
+            });
+            if (flag == 1) {
+                $(function () {
+                    $("#tu").animate({ left: "-2400px" }, 500);
+                });
+            }
+        }
+
+        // 第三个按钮被按下时
+        function threeCL(flag) {
+            $(function () {
+                $("#oneBT").animate({ width: "20px" }, 500);
+                $("#twoBT").animate({ width: "20px" }, 500);
+                $("#threeBT").animate({ width: "40px", backgroundColor: "white" }, 500);
+            });
+            if (flag == 1) {
+                $(function () {
+                    $("#tu").animate({ left: "-4800px" }, 500);
+                });
+            }
+        }
+
+        // 设置定时器每隔一秒调用滑动事件
+        var l = setInterval("right()", 3000);
+
+        // 设置事件启用滑动定时器
+        function start() {
+            l = setInterval("right()", 3000);
+        }
+
+        // 设置事件停止滑动定时器
+        function stop() {
+            clearInterval(l);
+        }
+
+        // 为显示界面的覆盖事件设置stop()和start()
+        $(function () {
+            $("#kuang").mouseenter(function () {
+                stop();
+            });
+            $("#kuang").mouseleave(function () {
+                start();
+            });
+        })
+
+        function poster(id) {
+            window.open("flowerDetail.aspx" + "?id=" + id);
+        }
+
+    </script>
+</head>
+<body>
+    <app>
+        <component type="typeof(App)" render-mode="ServerPrerendered" />
+    </app>
+
+    <div id="blazor-error-ui">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.server.js"></script>
+</body>
+</html>

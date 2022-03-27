@@ -1,0 +1,82 @@
+﻿@page "/home"
+@page "/"
+@using System.Data;
+
+<head>
+    <title>主页</title>
+</head>
+@*轮播图*@
+<LunBo></LunBo>
+
+@*帖子列表表头*@
+<BiaoTou></BiaoTou>
+
+<AntList DataSource="@test()">
+    <ListItem>
+        <a>@context.Name</a>
+        <a>@context.Type</a>
+    </ListItem>
+</AntList>
+
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+<h1>666</h1>
+
+<h1>666</h1>
+<h1>666</h1>
+
+<h1>666</h1>
+
+@code{
+
+    DataTable dt = DBHelper.GetData("select * from PostTable as A inner join TypeTable as B on A.PostTypeId=B.PostTypeId");
+    public List<Tiezhi> test()
+    {
+        List<Tiezhi> tiezhis = new List<Tiezhi>();
+        foreach (DataRow dr in dt.Rows)
+        {
+            Tiezhi tiezhi = new Tiezhi();
+            tiezhi.Name = dr["PostName"].ToString();
+            tiezhi.Type = dr["PostTypeName"].ToString();
+            tiezhis.Add(tiezhi);
+        }
+        return tiezhis;
+    }
+}

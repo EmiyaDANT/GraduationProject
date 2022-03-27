@@ -1,0 +1,40 @@
+﻿@inject NavigationManager nav;
+
+<Button style="margin-left:700px" OnClick="LoginOpen" Type="@ButtonType.Link"><Icon Type="login" Theme="outline" Class="iconTop" />登录</Button>
+<Button Type="@ButtonType.Link" OnClick="RegOpen"><Icon Type="login" Theme="outline" Class="iconTop" />注册</Button>
+<Drawer Width="500" Closable="true" Visible="LoginVisible" Placement="right" Title='("登录界面")' OnClose="LoginClose">
+    <Login></Login>
+</Drawer>
+
+<Drawer Closable="true" Visible="regVisible" Placement="right" Title='("注册界面")' OnClose="RegClose">
+    <h1>注册</h1>
+</Drawer>
+
+@code{
+    // 登录界面是否显示
+    bool LoginVisible = false;
+    // 注册界面是否显示
+    bool regVisible = false;
+
+    // 打开登录界面
+    void LoginOpen()
+    {
+        this.LoginVisible = true;
+    }
+
+    // 关闭登录界面
+    void LoginClose()
+    {
+        this.LoginVisible = false;
+    }
+
+    void RegOpen()
+    {
+        this.regVisible = true;
+    }
+
+    void RegClose()
+    {
+        this.regVisible = false;
+    }
+}

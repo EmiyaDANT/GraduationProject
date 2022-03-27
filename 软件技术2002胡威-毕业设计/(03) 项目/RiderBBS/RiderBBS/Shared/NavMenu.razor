@@ -1,0 +1,22 @@
+﻿<Menu Style=@Style Theme="MenuTheme.Dark" Mode="MenuMode.Horizontal" DefaultSelectedKeys=@(new[]{"1"})>
+    <MenuItem Key="1" RouterLink="home" RouterMatch="NavLinkMatch.All">主页</MenuItem>
+    <MenuItem Key="2" RouterLink="rdstrategy">骑行攻略</MenuItem>
+    <MenuItem Key="3" RouterLink="rdactivities">骑行活动</MenuItem>
+    <MenuItem Key="4" RouterLink="rdcircle">骑行团征召</MenuItem>
+    <MenuItem Key="5" RouterLink="rdequipment">骑行装备</MenuItem>
+    <MenuItem Key="6" RouterLink="rdknowledge">骑行知识</MenuItem>
+    @if (loginState)
+    {
+        <IsLogin></IsLogin>
+    }
+    else
+    { 
+        <NotLogin></NotLogin>
+    }
+</Menu>
+
+@code{
+    [Parameter]
+    public string Style { get; set; }
+    public bool loginState = LoginState.State;
+}

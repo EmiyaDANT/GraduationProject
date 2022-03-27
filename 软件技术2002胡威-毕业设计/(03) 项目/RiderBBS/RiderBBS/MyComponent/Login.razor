@@ -1,0 +1,114 @@
+﻿@using System.ComponentModel.DataAnnotations;
+@inject MessageService _message;
+@using System.Data;
+@using System.Data.SqlClient;
+@inject IJSRuntime js;
+
+<Form Loading="loading" Model="@user"
+        LabelColSpan="5"
+        WrapperColSpan="16"
+        OnFinish="OnFinish"
+        OnFinishFailed="OnFinishFailed">
+        <FormItem Label="用户名" Style="margin-top:100px" ValidateStatus="NameStatus" HasFeedback>
+            <Input @bind-Value="@context.UserName" OnBlur="JuageName"/>
+        </FormItem>
+        <FormItem Label="密码" ValidateStatus="PwdStatus" HasFeedback>
+            <InputPassword @bind-Value="@context.Password" OnBlur="JuagePwd"/>
+        </FormItem>
+        <FormItem WrapperColOffset="8" WrapperColSpan="16">
+            <Button Type="@ButtonType.Primary" HtmlType="submit">
+                登录
+            </Button>
+        </FormItem>
+</Form>
+<div style="margin-top: 16px">
+    Loading state：
+    <Switch Checked=loading OnChange=toggle />
+</div>
+@code
+{
+    // 用户名框的状态
+    public FormValidateStatus NameStatus { get; set; } = FormValidateStatus.Validating;
+
+    // 密码框状态
+    public FormValidateStatus PwdStatus { get; set; } = FormValidateStatus.Validating;
+
+    private User user=new User();
+
+    // 获取用户表
+    DataTable dt=DBHelper.GetData("select * from UserTable");
+    // 判断用户名是否正确
+    private void JuageName()
+    {
+        // 判断条件
+        bool hasName=false;
+
+        // 遍历用户表
+        foreach (DataRow dr in dt.Rows)
+        {
+            // 若不存在输入的用户名,将hasName改为false
+            hasName = user.UserName != dr["Username"].ToString() ? false : true;
+        }
+        // 如果存在用户名
+        if (hasName)
+        {
+            NameStatus = FormValidateStatus.Success;
+        }
+        //  如果不存在用户名
+        else
+        {
+            NameStatus = FormValidateStatus.Error;
+        }
+    }
+
+    // 判断密码是否正确
+    private void JuagePwd()
+    {
+        if (!String.IsNullOrEmpty(user.UserName))
+        {
+            // 判断条件
+            bool pwdFlag=false;
+
+            // 遍历用户表
+            foreach (DataRow dr in dt.Rows)
+            {
+                // 若用户名和密码匹配
+                pwdFlag = (user.UserName == dr["Username"].ToString()&&user.Password==dr["UserPwd"].ToString())? true : false;
+            }
+            // 如果用户名和密码匹配
+            if (pwdFlag)
+            {
+                PwdStatus = FormValidateStatus.Success;
+            }
+            //  如果用户名和密码不匹配
+            else
+            {
+                PwdStatus = FormValidateStatus.Error;
+            }
+        }
+    }
+
+
+
+
+    // 登录成功以后
+    private void OnFinish(EditContext editContext)
+    {
+        _message.Success("登录成功");
+        LoginState.State = true;
+        LoginState.UserName = user.UserName;
+        // 会调用JavaScript里的Refresh方法
+        js.InvokeVoidAsync("Refresh");
+    }
+
+    // 登录失败以后
+    private void OnFinishFailed(EditContext editContext)
+    {
+        _message.Error("登录失败!!");
+    }
+
+
+    bool loading = false;
+
+    void toggle(bool value) => loading = value;
+}
